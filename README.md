@@ -28,7 +28,7 @@ This project is a web-based user management and scheduler system. It includes fu
 - body-parser for parsing request bodies
 ## Installation
 
-git clone https://github.com/grishma7733/websitekalva.git
+git clone https://github.com/AdityA0932/WebDB-Forge.git
 cd user-management-scheduler
 
 
